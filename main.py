@@ -1,6 +1,7 @@
 import functions.circle as circ
 import os
 import pandas as pd
+import seaborn as sns
 
 if __name__ == '__main__':
     r = 5
